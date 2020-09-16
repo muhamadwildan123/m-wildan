@@ -41,7 +41,7 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`nim`, `nama`, `jurusan`, `jk`, `alamat`) VALUES
-(177200009, 'Firmansyah Jh', 'Teknik Informatika', 'Laki - Laki', 'GG. Harapan II Cianjur');
+(177200009, 'Muhamad Wildan', 'Teknik Informatika', 'Laki - Laki', 'jln raya Bojongpicung');
 
 --
 -- Indexes for dumped tables
